@@ -425,12 +425,12 @@ pkg update && upgrade
 pkg install python2 
 pkg install git
 pip2 install mechanize
-git clone https://github.com/pirmansx/mbf
+git clone https://github.com/hnov7/mbf
 echo $cyan"<><><><><><><><><><><><><><><>"
 echo $cyan "udh selesai tod"
 echo $cyan "cara pakai"
-echo $cyan "cd MBF"
-echo $cyan "python2 MBF.py"
+echo $cyan "cd mbf"
+echo $cyan "python2 mbf.py"
 echo $white"<><><><><><><><><><><><><><><>"
 fi
 
